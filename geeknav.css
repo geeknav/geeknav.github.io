@@ -99,14 +99,9 @@ nav {
 
 footer {
   margin: 30px auto 20px auto;
-}
-footer,footer a {
   color: #ddd;
   font-size: 12px;
 }
 #access-count{
   color: #FFF;
-}
-footer span {
-  margin-right: 10px;
 }
