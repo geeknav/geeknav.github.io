@@ -14,6 +14,12 @@ var geeknavData = {
         'detail':'一个与程序相关的IT技术问答网站'
       },
       {
+        'img':'http://cfanz.cn/uploads/png/2014/06/10/10/YL41W69H3C.png',
+        'title':'Github',
+        'link':'https://github.com/',
+        'detail':'全球最大的IT同性交友社区'
+      },
+      {
         'img':'http://cdn3.infoqstatic.com/statics_s1_20170328-0458_1/styles/i/logo_bigger.jpg',
         'title':'InfoQ',
         'link':'http://www.infoq.com/cn/',
@@ -56,18 +62,31 @@ var geeknavData = {
         'detail':'优秀原创文章和翻译文章聚集地'
       },
       {
-        'img':'http://cfanz.cn/uploads/png/2014/06/10/10/YL41W69H3C.png',
-        'title':'Github',
-        'link':'https://github.com/',
-        'detail':'全球最大的IT同性交友社区'
+        'img':'http://ww1.sinaimg.cn/large/92384d60gw1eddihvbaizj20qi0fxjsa.jpg',
+        'title':'V2EX',
+        'link':'http://www.v2ex.com/',
+        'detail':'V2EX是一个关于分享和探索的地方'
       },
+      {
+        'img':'https://news.ycombinator.com/favicon.ico',
+        'title':'Haker News',
+        'link':'https://news.ycombinator.com/',
+        'detail':'Hacker News是Y Combinator旗下的一个新闻频道，属于digg类产品'
+      },
+
     ],
     'Java':[
       {
-        'img':'http://cfanz.cn/uploads/png/2014/06/10/10/YL41W69H3C.png',
+        'img':'http://4.bp.blogspot.com/-Fq7ablmxONI/UmnmRnhkETI/AAAAAAAABWo/MtJBgP2sCfs/s1600/favicon-facebook_normal.png',
         'title':'并发编程网',
         'link':'http://ifeve.com/',
         'detail':'并发编程网 - 让天下没有难学的技术'
+      },
+      {
+        'img':'http://www.importnew.com/wp-content/uploads/2014/12/6c537425c9ad078efe656a346e5facec.png',
+        'title':'importnew',
+        'link':'http://www.importnew.com/',
+        'detail':'importnew - 专注Java技术分享'
       },
     ]
   }
