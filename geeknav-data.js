@@ -49,7 +49,12 @@ var geeknavData = {
         'link':'http://blog.jobbole.com/',
         'detail':'优秀原创文章和翻译文章聚集地'
       },
-      
+      {
+        'img':'http://cfanz.cn/uploads/png/2014/06/10/10/YL41W69H3C.png',
+        'title':'Github',
+        'link':'https://github.com/',
+        'detail':'全球最大的IT同性交友社区'
+      },
     ]
   }
 }
