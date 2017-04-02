@@ -55,6 +55,6 @@ var geeknavData = {
         'link':'https://github.com/',
         'detail':'全球最大的IT同性交友社区'
       },
-    ]
+    ],
   }
 }
