@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" type="text/css" href="./normalize.css">
+    <link rel="stylesheet" type="text/css" href="./geeknav.css">
+    <script src="http://libs.baidu.com/jquery/2.1.1/jquery.min.js"></script>
+    <script src="./template.js"></script>
+    <script src="https://cdn1.lncld.net/static/js/av-min-1.2.1.js"></script>
+    <script>AV.initialize("f4pzJPaUSBRlbFO64I5AtfDl-gzGzoHsz", "GcudjKxp5sEaRrOUbiQqdNwk");</script>
+
+    <script src="./geeknav-data.js"></script>
+    <script src="./geeknav.js"></script>
+    <title>极客之路---属于程序员的网址导航</title>
+  </head>
+
+  <body>
+    <!-- 菜单 -->
+    <nav>
+      <a href='#logo' id='logo'>极客之路</a>
+      <div class="menu-wrapper">
+        <script id="menu-tpl" type="text/html">
+          {{each site as value key}}
+            <a href='#{{key}}'>{{key}}</a>
+          {{/each}}
+        </script>
+      </div>
+    </nav>
+
+    <!-- 内容 -->
+    <div class="content">
+      <script id="cart-tpl" type="text/html">
+        {{each site as value key}}
+          <div id="{{key}}" class="cart-wrapper">
+            <div class='category'>{{key}}</div>
+              {{each value as value2 i}}
+                <div class='cart'>
+                  <img src="{{value2.img}}">
+                  <div class='site'>
+                    <a class='site-title' href="{{value2.link}}" target='_blank'>{{value2.title}}</a>
+                    <hr class='site-hr' color='#DE6D77'>
+                    <p class='site-detail' title='{{value2.detail}}'>{{value2.detail}}</p>
+                  </div>
+                </div>
+              {{/each}}
+              <div class="clearFloat"></div>
+          </div>
+        {{/each}}
+      </script>
+    </div>
+
+    <!-- footer -->
+    <footer>
+      <span>© 2017 谢晞鸣</span>
+      <span id="access-count">200</span>
+      <a href="https://github.com/fdx321">联系我</a>
+    </footer>
+  </body>
+</html>
