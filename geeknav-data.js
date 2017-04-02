@@ -2,92 +2,124 @@ var geeknavData = {
   site:{
     '综合':[
       {
-        'img':'http://img.zcool.cn/community/011b4e569615756ac725af2358c9f2.png',
+        'img':'http://wx4.sinaimg.cn/mw690/6a2787d4gy1fe8ky8yu8rj20b40b4wek.jpg',
         'title':'Google',
         'link':'https://www.google.com',
         'detail':'全球最大的搜索引擎'
       },
       {
-        'img':'https://cdn.sstatic.net/Sites/stackoverflow/img/apple-touch-icon.png',
+        'img':'http://wx2.sinaimg.cn/mw690/6a2787d4gy1fe8kyhiijmj204e04eq2r.jpg',
         'title':'StackOverflow',
         'link':'http://stackoverflow.com/',
         'detail':'一个与程序相关的IT技术问答网站'
       },
       {
-        'img':'http://cfanz.cn/uploads/png/2014/06/10/10/YL41W69H3C.png',
+        'img':'http://wx1.sinaimg.cn/mw690/6a2787d4gy1fe8kymhyb4j20cs0csdgs.jpg',
         'title':'Github',
         'link':'https://github.com/',
         'detail':'全球最大的IT同性交友社区'
       },
       {
-        'img':'http://cdn3.infoqstatic.com/statics_s1_20170328-0458_1/styles/i/logo_bigger.jpg',
+        'img':'http://wx1.sinaimg.cn/mw690/6a2787d4gy1fe8l0isrlej204601awej.jpg',
         'title':'InfoQ',
         'link':'http://www.infoq.com/cn/',
         'detail':'InfoQ - 促进软件开发领域知识与创新的传播'
       },
       {
-        'img':'http://img1.iyiou.com/Company/2016-05-11/cf-segmentfault.jpg',
+        'img':'http://wx3.sinaimg.cn/mw690/6a2787d4gy1fe8kyt3r3uj209q09q0ts.jpg',
         'title':'SegmentFault',
         'link':'https://segmentfault.com/',
         'detail':'SegmentFault是中国领先的开发者社区。旨在为中文开发者提供一个纯粹、高质的技术交流平台'
       },
       {
-        'img':'http://c.csdnimg.cn/public/favicon.ico',
+        'img':'http://wx3.sinaimg.cn/mw690/6a2787d4gy1fe8kywoeydj201s01smwz.jpg',
         'title':'CSDN',
         'link':'http://www.csdn.net/',
         'detail':'全球最大的中文IT社区'
       },
       {
-        'img':'http://static.zhihu.com/static/revved/img/ios/touch-icon-152.87c020b9.png',
+        'img':'http://wx1.sinaimg.cn/mw690/6a2787d4gy1fe8kzgsdf5j2048048q2r.jpg',
         'title':'知乎',
         'link':'http://www.zhihu.com/',
         'detail':'中文互联网最大的知识社交平台，XXX是一种怎样的体验？'
       },
       {
-        'img':'//gold-cdn.xitu.io/favicons/apple-touch-icon-57x57.png',
+        'img':'http://wx3.sinaimg.cn/mw690/6a2787d4gy1fe8kzlt2awj201l01la9u.jpg',
         'title':'掘金',
         'link':'https://juejin.im/welcome',
         'detail':'自称是一个只有高手分享的社区'
       },
       {
-        'img':'https://toutiao.io/apple-icon-57x57.png',
+        'img':'http://wx3.sinaimg.cn/mw690/6a2787d4gy1fe8kzqfvf0j201l01l3y9.jpg',
         'title':'开发者头条',
         'link':'https://toutiao.io/',
         'detail':'程序员界的今日头条'
       },
       {
-        'img':'http://blog.jobbole.com/wp-content/themes/jobboleblogv3/_assets/img/jobbole-logo.png',
+        'img':'http://wx1.sinaimg.cn/mw690/6a2787d4gy1fe8kzzxxiij203q02ct8o.jpg',
         'title':'伯乐在线',
         'link':'http://blog.jobbole.com/',
         'detail':'优秀原创文章和翻译文章聚集地'
       },
       {
-        'img':'http://ww1.sinaimg.cn/large/92384d60gw1eddihvbaizj20qi0fxjsa.jpg',
+        'img':'http://wx3.sinaimg.cn/mw690/6a2787d4gy1fe8kzaqpncj208y08uglz.jpg',
         'title':'V2EX',
         'link':'http://www.v2ex.com/',
         'detail':'V2EX是一个关于分享和探索的地方'
       },
       {
-        'img':'https://news.ycombinator.com/favicon.ico',
+        'img':'http://wx4.sinaimg.cn/mw690/6a2787d4gy1fe8l05gci6j2074074wec.jpg',
         'title':'Haker News',
         'link':'https://news.ycombinator.com/',
         'detail':'Hacker News是Y Combinator旗下的一个新闻频道，属于digg类产品'
       },
-
     ],
     'Java':[
       {
-        'img':'http://4.bp.blogspot.com/-Fq7ablmxONI/UmnmRnhkETI/AAAAAAAABWo/MtJBgP2sCfs/s1600/favicon-facebook_normal.png',
+        'img':'http://wx3.sinaimg.cn/mw690/6a2787d4gy1fe8l10gdvaj209h093weu.jpg',
         'title':'并发编程网',
         'link':'http://ifeve.com/',
         'detail':'并发编程网 - 让天下没有难学的技术'
       },
       {
-        'img':'http://www.importnew.com/wp-content/uploads/2014/12/6c537425c9ad078efe656a346e5facec.png',
+        'img':'http://wx4.sinaimg.cn/mw690/6a2787d4gy1fe8l13jjstj204o02wt8l.jpg',
         'title':'importnew',
         'link':'http://www.importnew.com/',
         'detail':'importnew - 专注Java技术分享'
       },
+    ],
+    '博客订阅':[
+      {
+        'img':'http://wx1.sinaimg.cn/mw690/6a2787d4gy1fe8lzvifyhj20bo0bodfo.jpg',
+        'title':'Hollischuang‘s blog',
+        'link':'http://www.hollischuang.com/',
+        'detail':'Java为主的博客'
+      },
+      {
+        'img':'http://wx4.sinaimg.cn/mw690/6a2787d4gy1fe8m17fjo2j20bo0bomx0.jpg',
+        'title':'美团点评技术团队',
+        'link':'http://tech.meituan.com/',
+        'detail':'美团点评技术团队的博客'
+      },
+      {
+        'img':'http://wx3.sinaimg.cn/mw690/6a2787d4gy1fe8m2pn8xvj20b40b4744.jpg',
+        'title':'CHEN川',
+        'link':'http://www.jianshu.com/u/465826ec6f26',
+        'detail':'CHEN川'
+      },
+      {
+        'img':'http://wx1.sinaimg.cn/mw690/6a2787d4gy1fe8m3296onj20bo0boglg.jpg',
+        'title':'何登成的技术博客',
+        'link':'http://hedengcheng.com/',
+        'detail':'何登成的技术博客'
+      },
+      {
+        'img':'http://wx3.sinaimg.cn/mw690/6a2787d4gy1fe8m3fspsmj20bo0bomx0.jpg',
+        'title':'凤凰牌老熊',
+        'link':'http://blog.lixf.cn/',
+        'detail':'现代支付系统设计——基于微服务的实践'
+      },
     ]
+
   }
 }
