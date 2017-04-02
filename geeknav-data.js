@@ -25,6 +25,24 @@ var geeknavData = {
         'link':'http://www.csdn.net/',
         'detail':'全球最大的中文IT社区'
       },
+      {
+        'img':'https://static.zhihu.com/static/revved/img/ios/touch-icon-152.87c020b9.png',
+        'title':'知乎',
+        'link':'http://www.zhihu.com/',
+        'detail':'中文互联网最大的知识社交平台，XXX是一种怎样的体验？'
+      },
+      {
+        'img':'https://gold-cdn.xitu.io/v3/static/img/logo.a7995ad.svg',
+        'title':'掘金',
+        'link':'https://juejin.im/welcome',
+        'detail':'自称是一个只有高手分享的社区'
+      },
+      {
+        'img':'https://toutiao.io/apple-icon-57x57.png',
+        'title':'开发者头条',
+        'link':'https://toutiao.io/',
+        'detail':'程序员界的今日头条'
+      },
     ]
   }
 }
