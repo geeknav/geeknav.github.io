@@ -14,6 +14,12 @@ var geeknavData = {
         'detail':'一个与程序相关的IT技术问答网站'
       },
       {
+        'img':'http://cdn3.infoqstatic.com/statics_s1_20170328-0458_1/styles/i/logo_bigger.jpg',
+        'title':'InfoQ',
+        'link':'http://www.infoq.com/cn/',
+        'detail':'InfoQ - 促进软件开发领域知识与创新的传播'
+      },
+      {
         'img':'http://img1.iyiou.com/Company/2016-05-11/cf-segmentfault.jpg',
         'title':'SegmentFault',
         'link':'https://segmentfault.com/',
@@ -56,5 +62,13 @@ var geeknavData = {
         'detail':'全球最大的IT同性交友社区'
       },
     ],
+    'Java':[
+      {
+        'img':'http://cfanz.cn/uploads/png/2014/06/10/10/YL41W69H3C.png',
+        'title':'并发编程网',
+        'link':'http://ifeve.com/',
+        'detail':'并发编程网 - 让天下没有难学的技术'
+      },
+    ]
   }
 }
