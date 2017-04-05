@@ -159,6 +159,19 @@ var geeknavData = {
         'link':'http://www.pmcaff.com/',
         'detail':'PMCAFF产品经理社区 中国第一产品经理人气组织'
       },
+      {
+        'img':'http://asciiflow.com/images/logo-bar.gif',
+        'title':'asciiflow',
+        'link':'http://asciiflow.com/',
+        'detail':'asciiflow 在线ascii画图工具'
+      },
+      {
+        'img':'http://regexr.com/favicon.ico',
+        'title':'regexr',
+        'link':'http://regexr.com/',
+        'detail':'regexr 在线正则表达式'
+      },
+
     ]
 
   }
