@@ -90,6 +90,12 @@ var geeknavData = {
     ],
     '博客订阅':[
       {
+        'img':'http://coolshell.cn/coolshell_logo.png',
+        'title':'酷壳 - COOLSHELL',
+        'link':'http://coolshell.cn/',
+        'detail':'酷壳 - 享受编程和技术所带来的快乐'
+      },
+      {
         'img':'http://wx1.sinaimg.cn/mw690/6a2787d4gy1fe8lzvifyhj20bo0bodfo.jpg',
         'title':'Hollischuang‘s blog',
         'link':'http://www.hollischuang.com/',
@@ -118,6 +124,14 @@ var geeknavData = {
         'title':'凤凰牌老熊',
         'link':'http://blog.lixf.cn/',
         'detail':'现代支付系统设计——基于微服务的实践'
+      },
+    ],
+    '其他':[
+      {
+        'img':'http://e.hiphotos.baidu.com/baike/s%3D220/sign=0cc3803eaa4bd11300cdb0306aaea488/29381f30e924b8996d571d7569061d950a7bf610.jpg',
+        'title':'PMCAFF',
+        'link':'http://www.pmcaff.com/',
+        'detail':'PMCAFF产品经理社区 中国第一产品经理人气组织'
       },
     ]
 
