@@ -125,30 +125,36 @@ var geeknavData = {
         'link':'http://blog.lixf.cn/',
         'detail':'现代支付系统设计——基于微服务的实践'
       },
+      {
+        'img':'http://utheme.blogcn.com/wp-content/user-themes/4/f6/8bbb23eb9879ee3d/images/logo.png',
+        'title':'花钱的年华（江南白衣）',
+        'link':'http://calvin1978.blogcn.com/',
+        'detail':'花钱的年华（江南白衣）'
+      },
     ],
     '微信公共号':[
       {
         'img':'http://wx.qlogo.cn/mmhead/Q3auHgzwzM4DkCqSIEoCCu1zKRml7uqGFXL2Phiag9FPlfknIpcCxdw/0',
         'title':'高可用架构',
-        'link':'http://mp.weixin.qq.com/profile?src=3&timestamp=1491359350&ver=1&signature=7hBnjJ*dXYUGaM7eh47MxkgXIX9ELZ7Yx4CRKVKmREYmS8hGvE*qIUqZtPz165PZALnVgPYLQoIvH2wVSdp0jw==',
+        'link':'http://weixin.sogou.com/weixin?query=高可用架构',
         'detail':'高可用架构'
       },
       {
         'img':'http://wx.qlogo.cn/mmhead/Q3auHgzwzM5e9faUnSQSoXNxDJsGMAYYPXJJauVra3VvSz7vY2OgKA/0',
         'title':'GitChat精选',
-        'link':'http://mp.weixin.qq.com/profile?src=3&timestamp=1491360372&ver=1&signature=PmwRSX-NncQMmPzRrwAdl-hIQtOoz-UxJLcLP7WWPkQLahBzCElV3vGe2GAMoM8HkaMKfj1*VY2J41Qb9K8M9w==',
+        'link':'http://weixin.sogou.com/weixin?query=GitChat精选',
         'detail':'GitChat - 新时代的学习工具'
       },
       {
         'img':'http://wx.qlogo.cn/mmhead/Q3auHgzwzM7y5qQSdicmVzpBia0v6ZQQhk1KGF7eX9BqzV3ufRfUKs0g/0',
         'title':'架构师之路',
-        'link':'http://mp.weixin.qq.com/profile?src=3&timestamp=1491360388&ver=1&signature=eBZBLw*kCBmlIkAx3JC5hr9*kzP049YBGoYXPBjqrtiNVJ3mMFEdIXFO9LvXMBoqhQu9UvHOeBEs3bp5EW-ONQ==',
+        'link':'http://weixin.sogou.com/weixin?query=架构师之路',
         'detail':'架构师之路，坚持撰写接地气的架构文章'
       },
       {
         'img':'http://wx.qlogo.cn/mmhead/Q3auHgzwzM67Ab54vwRuuIZ0UsCUFvpKPxrNnt8NEz8z8iaztkXJc7g/0',
         'title':'聊聊架构',
-        'link':'http://mp.weixin.qq.com/profile?src=3&timestamp=1491360407&ver=1&signature=zl4i2*DnPEVglDL-oU0T5wZYcnoucVv2xZLNRG3N9snyNpWnbECDMmvRtkiAcLnikdYGIl2rBrlB-L5Z1xz-lw==',
+        'link':'http://weixin.sogou.com/weixin?query=聊聊架构',
         'detail':'在这里煮酒聊架构'
       }
     ],
