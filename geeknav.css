@@ -141,7 +141,7 @@ footer {
   transition-timing-function: ease-out;
 }
 .hvr-radial-out:hover, .hvr-radial-out:focus, .hvr-radial-out:active {
-  color: white;
+  color: red;
 }
 .hvr-radial-out:hover:before, .hvr-radial-out:focus:before, .hvr-radial-out:active:before {
   -webkit-transform: scale(2);
