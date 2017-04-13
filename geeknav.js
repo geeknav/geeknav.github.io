@@ -15,11 +15,11 @@ $(document).ready(function(){
   })
 
   // cart hover 效果
-  $('.cart').hover(function(){
-    $(this).css("background-color","#3E3D49");
-  },function(){
-    $(this).css("background-color","#21252B");
-  })
+//   $('.cart').hover(function(){
+//     $(this).css("background-color","#3E3D49");
+//   },function(){
+//     $(this).css("background-color","#21252B");
+//   })
 
   //访问计数，基于leanCloud
   function addCount (Counter) {
