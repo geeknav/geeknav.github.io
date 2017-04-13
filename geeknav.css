@@ -115,7 +115,7 @@ footer {
   box-shadow: 0 0 1px transparent;
   position: relative;
   overflow: hidden;
-  background: #e1e1e1;
+  background: #21252B;
   -webkit-transition-property: color;
   transition-property: color;
   -webkit-transition-duration: 0.3s;
@@ -141,7 +141,7 @@ footer {
   transition-timing-function: ease-out;
 }
 .hvr-radial-out:hover, .hvr-radial-out:focus, .hvr-radial-out:active {
-  color: red;
+  color: white;
 }
 .hvr-radial-out:hover:before, .hvr-radial-out:focus:before, .hvr-radial-out:active:before {
   -webkit-transform: scale(2);
