@@ -183,6 +183,12 @@ var geeknavData = {
         'link':'https://ppt.baomitu.com/',
         'detail':'在线PPT'
       },
+      {
+        'img':'https://hackmd.io/favicon.png',
+        'title':'HackMD',
+        'link':'https://hackmd.io/',
+        'detail':'在线Markdown编辑'
+      },
 
     ]
 
