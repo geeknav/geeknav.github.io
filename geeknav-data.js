@@ -90,6 +90,12 @@ var geeknavData = {
     ],
     '博客订阅':[
       {
+        'img':'http://wx2.sinaimg.cn/mw690/6a2787d4gy1fe8m3mcq41j20bo0boq2s.jpg',
+        'title':'the morning paper',
+        'link':'https://blog.acolyer.org/',
+        'detail':'an interesting/influential/important paper from the world of CS every weekday morning, as selected by Adrian Colyer'
+      },
+      {
         'img':'http://coolshell.cn/coolshell_logo.png',
         'title':'酷壳 - COOLSHELL',
         'link':'http://coolshell.cn/',
