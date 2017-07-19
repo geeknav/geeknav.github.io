@@ -137,6 +137,12 @@ var geeknavData = {
         'link':'http://calvin1978.blogcn.com/',
         'detail':'花钱的年华（江南白衣）'
       },
+      {
+        'img':'http://wx3.sinaimg.cn/mw690/6a2787d4gy1fe8m45gwrbj20bo0boq2s.jpg',
+        'title':'写点什么',
+        'link':'http://hongjiang.info/',
+        'detail':'有关jvm,scala与后端架构'
+      },
     ],
     '微信公共号':[
       {
