@@ -143,6 +143,12 @@ var geeknavData = {
         'link':'http://hongjiang.info/',
         'detail':'有关jvm,scala与后端架构'
       },
+      {
+        'img':'http://wx3.sinaimg.cn/mw690/6a2787d4gy1fe8m45gwrbj20bo0boq2s.jpg',
+        'title':'Kris的博客',
+        'link':'http://kriszhang.com',
+        'detail':'Kris的博客'
+      },      
     ],
     '微信公共号':[
       {
