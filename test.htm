@@ -27,9 +27,9 @@
             }
         ]);
         $.ajax({
-            type: 'POST',
+            method: 'POST',
             url: "http://mpaasgw.58cloud.alipay.net/mgw.htm?ctoken=",
-            method: formData,
+            data: formData,
             success: function (result) {
                 console.log(result);
             }
