@@ -27,11 +27,19 @@
             }
         ]);
         $.ajax({
+            url: 'http://mpaasgw.58cloud.alipay.net/mgw.htm?ctoken=',
             method: 'POST',
-            url: "http://mpaasgw.58cloud.alipay.net/mgw.htm?ctoken=",
             data: formData,
-            success: function (result) {
-                console.log(result);
+            contentType: false, // 注意这里应设为false
+            processData: false,
+            cache: false,
+            success: function (data) {
+                if (JSON.parse(data).result == 1) {
+                    $('.prompt').html(`文件${JSON.parse(data).filename}已上传成功`);
+                }
+            },
+            error: function (jqXHR) {
+                console.log(JSON.stringify(jqXHR));
             }
         });
     });
