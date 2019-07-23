@@ -108,6 +108,12 @@ var geeknavData = {
         'detail':'Java为主的博客'
       },
       {
+        'img':'http://wx3.sinaimg.cn/mw690/6a2787d4gy1fe8m45gwrbj20bo0boq2s.jpg',
+        'title':'后端技术杂谈',
+        'link':'https://www.rowkey.me/',
+        'detail':'后端技术杂谈'
+      },
+      {
         'img':'http://wx4.sinaimg.cn/mw690/6a2787d4gy1fe8m17fjo2j20bo0bomx0.jpg',
         'title':'美团点评技术团队',
         'link':'http://tech.meituan.com/',
